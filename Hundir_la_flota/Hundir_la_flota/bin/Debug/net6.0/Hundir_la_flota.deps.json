@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hundir_la_flota/1.0.0": {
+        "runtime": {
+          "Hundir_la_flota.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hundir_la_flota/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

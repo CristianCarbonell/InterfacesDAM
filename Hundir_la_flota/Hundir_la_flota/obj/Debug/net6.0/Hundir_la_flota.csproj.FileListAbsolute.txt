@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\bin\Debug\net6.0\Hundir_la_flota.exe
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\bin\Debug\net6.0\Hundir_la_flota.deps.json
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\bin\Debug\net6.0\Hundir_la_flota.runtimeconfig.json
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\bin\Debug\net6.0\Hundir_la_flota.dll
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\bin\Debug\net6.0\Hundir_la_flota.pdb
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\obj\Debug\net6.0\Hundir_la_flota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\obj\Debug\net6.0\Hundir_la_flota.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\obj\Debug\net6.0\Hundir_la_flota.AssemblyInfo.cs
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\obj\Debug\net6.0\Hundir_la_flota.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\obj\Debug\net6.0\Hundir_la_flota.dll
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\obj\Debug\net6.0\refint\Hundir_la_flota.dll
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\obj\Debug\net6.0\Hundir_la_flota.pdb
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\obj\Debug\net6.0\Hundir_la_flota.genruntimeconfig.cache
+C:\Users\crist\source\repos\Hundir_la_flota\Hundir_la_flota\obj\Debug\net6.0\ref\Hundir_la_flota.dll
